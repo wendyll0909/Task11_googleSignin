@@ -35,7 +35,9 @@ dependencies:
   cloud_firestore: ^5.6.0
   firebase_auth: ^5.3.1 
   google_sign_in: ^6.2.1 
-
+  cloudinary_public: ^0.23.1
+  image_picker: ^1.0.0
+  cached_network_image: ^3.3.1
 
   cupertino_icons: ^1.0.8
 
