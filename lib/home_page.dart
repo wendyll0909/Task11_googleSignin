@@ -26,7 +26,7 @@ class _HomePageState extends State<HomePage> {
       backgroundColor: Colors.grey[200],
       appBar: AppBar(
         backgroundColor: Colors.teal,
-        title: const Text("Task11_Erosido"),
+        title: const Text("Task11&12_Erosido"),
         iconTheme: const IconThemeData(color: Colors.white),
         actions: [
           IconButton(
