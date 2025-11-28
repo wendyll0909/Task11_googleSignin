@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "977378230678",
+    "project_id": "notes-57353",
+    "storage_bucket": "notes-57353.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977378230678:android:b8681d4abe4c5ad0f31db7",
+        "android_client_info": {
+          "package_name": "com.example.firebase_crudnote"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977378230678-02fsbhi520am0rb5kcj8tdci7pogdikn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfacXeIAtMjtUQ4o_-fPhLbUV5opLW2qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977378230678-02fsbhi520am0rb5kcj8tdci7pogdikn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977378230678-6rvohb0uqefgua3pl9p2r8u6mtsv1j93.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseCrudnote"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977378230678:android:e4b6938a5739c6cff31db7",
+        "android_client_info": {
+          "package_name": "com.example.notes_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977378230678-02fsbhi520am0rb5kcj8tdci7pogdikn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfacXeIAtMjtUQ4o_-fPhLbUV5opLW2qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977378230678-02fsbhi520am0rb5kcj8tdci7pogdikn.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "977378230678-6rvohb0uqefgua3pl9p2r8u6mtsv1j93.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firebaseCrudnote"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
